@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964278742657",
+    "project_id": "kundaligpt",
+    "storage_bucket": "kundaligpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964278742657:android:3841f8d6c67e5195dda780",
+        "android_client_info": {
+          "package_name": "com.example.kundligpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964278742657-nehvgpu3fkucugppg7os5ktudb8ke5g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcP_QJIq80WFu9ff1S0d38TWHDy5MRWFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964278742657-nehvgpu3fkucugppg7os5ktudb8ke5g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
